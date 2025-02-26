@@ -97,6 +97,7 @@ Having fun? Ask a friend to do the next move!
 <details>
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
+  
 | Total moves |  User  |
 | :---------: | :----- |
 | 692 | [@JohnyP36](https://github.com/JohnyP36) |
@@ -110,8 +111,7 @@ Having fun? Ask a friend to do the next move!
 | 75 | [@lulunac27a](https://github.com/lulunac27a) |
 | 68 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
 <!-- END TOP MOVES -->
+  
 </details>
-
----
 
 ![Footer Animation](https://via.placeholder.com/800x100.gif?text=Thanks+for+visiting!+🚀)
