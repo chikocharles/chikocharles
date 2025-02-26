@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Passionate software developer with a love fo
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chikocharles/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charleschiko/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charliechicco@gmail.com)
 
 ---
