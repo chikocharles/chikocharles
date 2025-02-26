@@ -8,25 +8,18 @@ Welcome to my GitHub profile! I'm a software developer with a love for creating 
 
 ## 🛠️ **Technologies & Tools**
 
-### Frontend
 ![HTML5 GIF](https://skillicons.dev/icons?i=html)
 ![CSS3 GIF](https://skillicons.dev/icons?i=css)
 ![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-
-### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
-
-### Databases
 ![MongoDB GIF](https://skillicons.dev/icons?i=mongodb)
 ![SQL GIF](https://skillicons.dev/icons?i=postgresql)
 ![MySQL GIF](https://skillicons.dev/icons?i=mysql)
-
-### Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Docker](https://skillicons.dev/icons?i=docker)
