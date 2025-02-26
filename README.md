@@ -1,8 +1,10 @@
 # Hi there, I'm Chiko Charles! 👋
 
-🚀 **Full-Stack Developer** | 🌍 **Based in Harare, Zimbabwe** | 💡 **Passionate about building innovative solutions**
+🌍 **Based in Harare, Zimbabwe** | 💡 **Passionate about building innovative solutions**
 
-Welcome to my GitHub profile! I'm a software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
+*Machine Learning | Data Scientist | Dashboard Expert | Reporting Analyst | OpenAi | Flutter | Web Developer*
+
+Welcome to my GitHub profile! I'm a Passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
 ---
 
