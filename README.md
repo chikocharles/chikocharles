@@ -47,71 +47,21 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 I once wrote a script that automated my morning coffee routine! ☕🤖
 
 ---
-## 🚀 **Game Time**
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
 
-### ChikoCharlie's Community Chess Tournament
-This is an open chess tournament where ANYONE can play. That's the fun part.
+    def __init__(self):
+        self.name = "Chiko Chrles"
+        self.role = "Passionate AI | Software Engineer"
+        self.language_spoken = ["sn_ZW", "en_US"]
 
-It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-<!-- BEGIN CHESS BOARD -->
-|   | H | G | F | E | D | C | B | A |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-| **2** | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **3** | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **5** | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | **5** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/knight.svg" width=50px> | **6** |
-| **7** | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **7** |
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | **8** |
-|   | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** |   |
-<!-- END CHESS BOARD -->
-
-**It's your turn to move! Choose one from the following table**
-
-**TARISISA,** tamba zvakangwarira
-<!-- BEGIN MOVES LIST -->
-**CHECK!** Choose your move wisely!
-|  FROM  | TO (Just click a link!) |
-| :----: | :---------------------- |
-| **D8** | [C7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+C7), [D7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+D7), [E7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+E7), [E8](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+E8) |
-<!-- END MOVES LIST -->
-
-Having fun? Ask a friend to do the next move!
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `E5` to `F7` | [ @marcizhu](https://github.com/marcizhu) |
-| `E7` to `D8` | [ @AnibalSV](https://github.com/AnibalSV) |
-| `D1` to `D8` | [ @1TSnakers](https://github.com/1TSnakers) |
-| `C5` to `A6` | [ @mishmanners](https://github.com/mishmanners) |
-| `C4` to `A6` | [ @marcizhu](https://github.com/marcizhu) |
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
-  
-| Total moves |  User  |
-| :---------: | :----- |
-| 692 | [@JohnyP36](https://github.com/JohnyP36) |
-| 440 | [@marcizhu](https://github.com/marcizhu) |
-| 380 | [@mishmanners](https://github.com/mishmanners) |
-| 196 | [@KubaRocks](https://github.com/KubaRocks) |
-| 116 | [@the1Riddle](https://github.com/the1Riddle) |
-| 112 | [@MatthiasGN](https://github.com/MatthiasGN) |
-| 109 | [@viktoriussuwandi](https://github.com/viktoriussuwandi) |
-| 78 | [@huuquyet](https://github.com/huuquyet) |
-| 75 | [@lulunac27a](https://github.com/lulunac27a) |
-| 68 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
-<!-- END TOP MOVES -->
-  
-</details>
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ![Footer Animation](https://via.placeholder.com/800x100.gif?text=Thanks+for+visiting!+🚀)
