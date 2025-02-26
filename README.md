@@ -52,7 +52,7 @@ I once wrote a script that automated my morning coffee routine! ☕🤖
 ### ChikoCharlie's Community Chess Tournament
 This is an open chess tournament where ANYONE can play. That's the fun part.
 
-It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | H | G | F | E | D | C | B | A |   |
@@ -72,30 +72,46 @@ It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
 
 **TARISISA,** tamba zvakangwarira
 <!-- BEGIN MOVES LIST -->
-(Here goes the list of legal moves)
+**CHECK!** Choose your move wisely!
+|  FROM  | TO (Just click a link!) |
+| :----: | :---------------------- |
+| **D8** | [C7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+C7), [D7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+D7), [E7](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+E7), [E8](https://github.com/chikocharles/chikocharles/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D8+to+E8) |
 <!-- END MOVES LIST -->
 
 Having fun? Ask a friend to do the next move!
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
-
-
 <details>
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
-(Here goes the list of the last 5 moves)
+
+| Move | Author |
+| :--: | :----- |
+| `E5` to `F7` | [ @marcizhu](https://github.com/marcizhu) |
+| `E7` to `D8` | [ @AnibalSV](https://github.com/AnibalSV) |
+| `D1` to `D8` | [ @1TSnakers](https://github.com/1TSnakers) |
+| `C5` to `A6` | [ @mishmanners](https://github.com/mishmanners) |
+| `C4` to `A6` | [ @marcizhu](https://github.com/marcizhu) |
 <!-- END LAST MOVES -->
 </details>
 
 <details>
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
-(Here goes the top 10 most moves)
+| Total moves |  User  |
+| :---------: | :----- |
+| 692 | [@JohnyP36](https://github.com/JohnyP36) |
+| 440 | [@marcizhu](https://github.com/marcizhu) |
+| 380 | [@mishmanners](https://github.com/mishmanners) |
+| 196 | [@KubaRocks](https://github.com/KubaRocks) |
+| 116 | [@the1Riddle](https://github.com/the1Riddle) |
+| 112 | [@MatthiasGN](https://github.com/MatthiasGN) |
+| 109 | [@viktoriussuwandi](https://github.com/viktoriussuwandi) |
+| 78 | [@huuquyet](https://github.com/huuquyet) |
+| 75 | [@lulunac27a](https://github.com/lulunac27a) |
+| 68 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
 <!-- END TOP MOVES -->
 </details>
 
 ---
-
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
 
 ![Footer Animation](https://via.placeholder.com/800x100.gif?text=Thanks+for+visiting!+🚀)
